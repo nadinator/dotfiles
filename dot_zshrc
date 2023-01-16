@@ -107,3 +107,6 @@ bindkey -v
 
 # Stop going into a new view when running commands like `git log`
 unset LESS 
+
+# Alias the stupid python name
+alias python=python3
