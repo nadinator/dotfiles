@@ -1,0 +1,2 @@
+$_FASD_AWK=gawk
+$_FASD_SED=gsed
