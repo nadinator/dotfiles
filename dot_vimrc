@@ -3,7 +3,7 @@
 " If you open this file in Vim, it'll be syntax highlighted for you.
 
 " Set word-wrapping globally to 79 characters.
-set nw=79
+set tw=79
 
 " Vim is based on Vi. Setting `nocompatible` switches from the default
 " Vi-compatibility mode and enables useful Vim functionality. This
