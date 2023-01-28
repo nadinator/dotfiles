@@ -4,6 +4,12 @@
 
 [alias]
 
+	# View log in extended graph format
+	g = log --all --graph --decorate
+	
+	# View log in extended graph format, oneline
+	og = log --all --graph --decorate --oneline
+
 	# View abbreviated SHA, description, and history graph of the latest 20 commits.
 	l = log --pretty=oneline -n 20 --graph --abbrev-commit
 
